@@ -2,7 +2,7 @@
 
 **🚀 About Me**
 
-👋 Hi, I’m a Full-Stack Java Developer completed my Bachelor of Computer Application from SRTM Univesity, Nanded (2023).
+👋 Hi, I’m a Full-Stack Java Developer completed my Bachelor of Computer Application from SRTM Univesity, Nanded (2023).      
 👨‍💻 I am passionate about Web Development & I enjoy building new things
 
 <!---
